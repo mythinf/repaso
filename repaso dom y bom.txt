@@ -1,0 +1,40 @@
+         ** EL BOM-BOM ** 
+
+Objteto location : info sobre la url del navegador
+ //location.protocol=
+"file:"
+ //location.hostname=
+""
+ //location.pathname
+="/C:/Users/maythe%20inf/Desktop/repaso/index.html"
+ //location.search
+=""
+ //location.assign=("www.facebook.com")--> te direcciona a la pagina web que este almacenada en tu archivo
+
+objeto navegator: info sobre el navegador
+ //navigator.appVersion=
+"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+ //navigator.appName
+="Netscape"--BUSCAR!!!
+ //navigator.platform=
+"Win32" --> info sobre el sistema operativo en el que se esta trabajando
+ //navigator.language=
+"es"
+
+objeto screen: info sobre la pantalla donde se va a mostar mi pag. web
+ //screen.availHeight
+=728--> es el alto disponible, sin barra de navegacione
+ //screen.height
+=768--> alto bruto
+ //screen.availWidth=
+1024--> ancho disponible
+ //screen.width
+=1024--> ancho bruto
+
+
+document.body.children
+
+(2) [p, img]
+document.body.childNodes
+
+(5) [text, p, text, img, text]
